@@ -28,7 +28,7 @@ I’m interested in...
  </tr>
  <tr>
     <td>Avatar: The Last Airbender<br>Arcane<br>Breaking Bad<br>Vinland Saga<br>South Park<br>Suits<br>Gintama</td>
-    <td>Pulp Fiction<br>Oldboy<br>Quiet on the Western Front<br>The Dark Knight<br>Django Unchained<br>Spiderman: Into/Across the Spider-verse<br>Inglorious Basterds</td>
+    <td>Pulp Fiction<br>Nightcrawler<br>Quiet on the Western Front<br>The Dark Knight<br>12 Angry Men<br>Spiderman: Into/Across the Spider-verse<br>Inglorious Basterds</td>
  </tr>
 </table>
 
