@@ -1,8 +1,9 @@
 # About me
 #### email: thorntonm244@gmail.com
-Hello :) my name is Matthew (just Matt for short)
+Hello, my name is Matthew (just Matt for short)
 
 I’m interested in... 
+- Data science
 - machine learning
 - programming
 - game development (and games in general)  
